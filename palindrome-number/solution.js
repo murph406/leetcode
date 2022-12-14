@@ -9,7 +9,7 @@ palindrome, and false otherwise.
  * @return {boolean}
  */
 
-var isPalindrome = function (x) {
+ var isPalindrome = function (x) {
     const numString = x.toString()
     const charArr = numString.split('')
     const reverseCharArr = charArr.slice().reverse()

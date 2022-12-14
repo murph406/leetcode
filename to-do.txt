@@ -1,0 +1,8 @@
+Solve all the problems 
+https://medium.com/@koheiarai94/60-leetcode-questions-to-prepare-for-coding-interview-8abbb6af589e
+
+
+Preparation Handbooks 
+
+Technical Interview - https://www.techinterviewhandbook.org
+Frontend Interview - https://www.frontendinterviewhandbook.com

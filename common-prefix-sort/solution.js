@@ -10,7 +10,7 @@ If there is no common prefix, return an empty string "".
  * @return {string}
  */
 
-function reverseSort(a, b) {
+ function reverseSort(a, b) {
     if (a > b) return -1
     if (a < b) return 1
     if (a === b) return 0

@@ -4,7 +4,7 @@
  */
 
 
-const transpose = function (matrix) {
+ const transpose = function (matrix) {
     let resultMatrix = Array.from({ length: matrix[0].length }, () => Array.from({ length: matrix.length}, () => []))
 
     console.log('\n', "INPUT_MATRIX::", matrix)
